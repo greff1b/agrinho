@@ -1,0 +1,12 @@
+body{
+    background-color: aliceblue;
+}
+header{
+    background-color: rgb(99, 117, 197);
+    width: 2000px;
+    height: 150px;
+    padding-left: 1px;
+    padding-right: 1px;
+    font-size: 80px;
+    text-align: center;
+}
