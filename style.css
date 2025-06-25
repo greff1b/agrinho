@@ -11,3 +11,9 @@ header{
     font-size: 90px;
     text-align: center;
 }
+#arvore{
+    width: 612px;
+    height: 599px;
+    padding-left: 50px;
+    padding-right: 80px;
+}
